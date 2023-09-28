@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ambareesh A</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4mbareesh&label=Profile%20views&color=0e75b6&style=flat" alt="4mbareesh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/4mbareesh" target="blank"><img src="https://img.shields.io/twitter/follow/4mbareesh?logo=twitter&style=for-the-badge" alt="4mbareesh" /></a> </p>
